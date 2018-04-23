@@ -1,0 +1,2 @@
+javac -cp lib/PDFBox-2.0.8.jar -d classes src/charactergenerator/*.java
+java -cp classes;lib\PDFBox-2.0.8.jar charactergenerator.CharacterTester
