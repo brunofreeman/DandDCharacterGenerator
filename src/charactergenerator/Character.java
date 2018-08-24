@@ -34,7 +34,7 @@ public class Character {
     private int[] attackBonus;
     private Dice[] attackDamage;
     private int[] coins;
-    private String[] equipment;
+    private ArrayList<String> equipment;
     private String[] personalityTraits;
     private String ideal;
     private String bond;
@@ -69,6 +69,11 @@ public class Character {
         bond = initBond();
         flaw = initFlaw();
         personalityTraits = initPersonalityTraits();
+        equipment = new ArrayList<>();
+        coins = new int[5];
+        equipment.addAll(getStartingEquipment(firstClass));
+        //equipment.addAll(getStartingEquipment(background));
+        //equipment.addAll(getStartingEquipment());
     }
 
     public void levelCharacter() {
@@ -205,7 +210,7 @@ public class Character {
         switch (rollMode) {
             case AVERAGE:
                 return new int[]{8, 10, 12, 13, 14, 15};
-            case ROLL:
+            case ROLL: //will be different
                 return new int[]{8, 10, 12, 13, 14, 15};
             default:
                 throw new IllegalArgumentException();
@@ -492,25 +497,17 @@ public class Character {
             case BARBARIAN:
                 return new Dice(new int[]{0, 0, 0, 0, 1, 0, 0}, 0);
             case BARD:
-                return new Dice(new int[]{0, 0, 1, 0, 0, 0, 0}, 0);
             case CLERIC:
-                return new Dice(new int[]{0, 0, 1, 0, 0, 0, 0}, 0);
             case DRUID:
-                return new Dice(new int[]{0, 0, 1, 0, 0, 0, 0}, 0);
-            case FIGHTER:
-                return new Dice(new int[]{0, 0, 0, 1, 0, 0, 0}, 0);
             case MONK:
-                return new Dice(new int[]{0, 0, 1, 0, 0, 0, 0}, 0);
-            case PALADIN:
-                return new Dice(new int[]{0, 0, 0, 1, 0, 0, 0}, 0);
-            case RANGER:
-                return new Dice(new int[]{0, 0, 0, 1, 0, 0, 0}, 0);
             case ROGUE:
-                return new Dice(new int[]{0, 0, 1, 0, 0, 0, 0}, 0);
-            case SORCERER:
-                return new Dice(new int[]{0, 1, 0, 0, 0, 0, 0}, 0);
             case WARLOCK:
                 return new Dice(new int[]{0, 0, 1, 0, 0, 0, 0}, 0);
+            case FIGHTER:
+            case PALADIN:
+            case RANGER:
+                return new Dice(new int[]{0, 0, 0, 1, 0, 0, 0}, 0);
+            case SORCERER:
             case WIZARD:
                 return new Dice(new int[]{0, 1, 0, 0, 0, 0, 0}, 0);
             default:
@@ -700,7 +697,7 @@ public class Character {
                 ideals.set(i, ideals.get(i).substring(ideals.get(i).indexOf(" ") + 1));
             }
             for (int i = ideals.size() - 1; i >= 0; i--) {
-                if (subAlignments.get(i) != SubAlignment.ANY && subAlignments.get(i) != alignment.getSP1() && subAlignments.get(i) != alignment.getSP1()) {
+                if (subAlignments.get(i) != SubAlignment.ANY && subAlignments.get(i) != alignment.getSA1() && subAlignments.get(i) != alignment.getSA1()) {
                     ideals.remove(i);
                 }
             }
@@ -831,7 +828,7 @@ public class Character {
             }
         } catch (Exception e) {
             return new String[]{"Personality Trait", "Personality Trait"};
-        }  
+        }
     }
     
     public String[] randomPersonalityTraits(String fileName) throws FileNotFoundException {
@@ -854,6 +851,95 @@ public class Character {
             throw new FileNotFoundException();
         }
     }
+
+    public ArrayList<String> getStartingEquipment(PlayerClass playerClass) {
+        try {
+            switch (firstClass) {
+                case BARBARIAN:
+                case PALADIN:
+                case RANGER:
+                case FIGHTER:
+                case BARD:
+                case CLERIC:
+                case DRUID:
+                case MONK:
+                case ROGUE:
+                case WARLOCK:
+                case WIZARD:
+                case SORCERER:
+                    return randomClassEquipment("barbarianClassEquipment");
+                default:
+                    throw new IllegalArgumentException();
+            }
+        } catch (Exception e) {
+            return new ArrayList<String>();
+        }  
+    }
+
+    public ArrayList<String> randomClassEquipment(String fileName) throws FileNotFoundException {
+        try {
+            Scanner fileInput = new Scanner(new File(filePath + "equipment\\classEquipment\\" + fileName + ".txt"));
+            ArrayList<String> equipment = new ArrayList<>();
+            while (fileInput.hasNext()) {
+                String line = fileInput.nextLine();
+                if (line.contains("|")) {
+                    line = decideEquipmentChoice(line);
+                }
+                if (line.contains("any(")) {
+                    line = chooseEquipment(line);
+                }
+                equipment.add(line);
+            }
+            return equipment;
+        } catch (FileNotFoundException e) {
+            throw new FileNotFoundException();
+        }
+    } 
+
+    public ArrayList<String> getStartingEquipment(Background background) {
+        return new ArrayList<String>();
+    }
+
+    public ArrayList<String> getStartingEquipment() {
+        return new ArrayList<String>();
+    }
+
+    public String decideEquipmentChoice(String optionsText) {
+        String[] options = optionsText.split("\\|");
+        return options[rand.nextInt(options.length)];
+    }
+
+    public String chooseEquipment(String category) {
+        try {
+            category = category.substring(category.indexOf("any(") + 4, category.indexOf(")"));
+            ArrayList<String> options = new ArrayList<>();
+            options.addAll(getEquipmentList(category));
+            String optionsText = "";
+            for (int i = 0; i < options.size(); i++) {
+                if (i < options.size() - 1) {
+                    optionsText += options.get(i) + "|";
+                } else {
+                    optionsText += options.get(i);
+                }
+            }
+            return decideEquipmentChoice(optionsText);
+        } catch (FileNotFoundException e) {
+            return "";
+        }    
+    }
+
+    public ArrayList<String> getEquipmentList(String fileName) throws FileNotFoundException {
+        try {
+            Scanner fileInput = new Scanner(new File(filePath + "equipment\\equipmentLists\\" + fileName + ".txt"));
+            ArrayList<String> equipment = new ArrayList<>();
+            while (fileInput.hasNext()) {
+                equipment.add(fileInput.nextLine());
+            }
+            return equipment;
+        } catch (FileNotFoundException e) {
+            throw new FileNotFoundException();
+        }
+    } 
 
     public String getName() {
         return name;
@@ -965,8 +1051,20 @@ public class Character {
         return coins;
     }
 
-    public String[] getEquipment() {
+    public ArrayList<String> getEquipment() {
         return equipment;
+    }
+
+    public String getEquipmentFormatted() {
+        String equipmentText = "";
+        for (int i = 0; i < equipment.size(); i++) {
+            if (i < equipment.size() - 1) {
+                equipmentText += equipment.get(i) + "\n";
+            } else {
+                equipmentText += equipment.get(i);
+            }
+        }
+        return equipmentText;
     }
 
     public String[] getPersonalityTraits() {

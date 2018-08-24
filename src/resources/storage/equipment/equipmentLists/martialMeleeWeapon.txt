@@ -1,0 +1,17 @@
+battleaxe
+flail
+glaive
+greataxe
+halberd
+lance
+longsword
+maul
+morningstar
+pike
+rapier
+scimitar
+shortsword
+trident
+war pick
+warhammer
+whip

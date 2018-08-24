@@ -19,7 +19,7 @@ public enum Alignment {
         }
     }
     
-    public SubAlignment getSP1() {
+    public SubAlignment getSA1() {
         switch (this) {
             case LG:
             case LN:
@@ -34,7 +34,7 @@ public enum Alignment {
         }
     }
     
-    public SubAlignment getSP2() {
+    public SubAlignment getSA2() {
         switch (this) {
             case LG:
             case NG:

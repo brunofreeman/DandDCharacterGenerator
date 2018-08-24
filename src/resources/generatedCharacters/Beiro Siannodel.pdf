@@ -677,7 +677,7 @@ endobj
 /Subtype /Widget
 /T (ClassLevel)
 /Type /Annot
-/V (Wizard 1)
+/V (Bard 1)
 >>
 endobj
 65 0 obj
@@ -694,7 +694,7 @@ endobj
 /Subtype /Widget
 /T (Background)
 /Type /Annot
-/V (Charlatan)
+/V (Sailor)
 >>
 endobj
 66 0 obj
@@ -729,7 +729,7 @@ endobj
 /Subtype /Widget
 /T (CharacterName)
 /Type /Annot
-/V <536F76656C697373204E61EF6C6F>
+/V (Beiro Siannodel)
 >>
 endobj
 68 0 obj
@@ -746,7 +746,7 @@ endobj
 /Subtype /Widget
 /T (Race)
 /Type /Annot
-/V (High Elf)
+/V (Drow)
 >>
 endobj
 69 0 obj
@@ -816,7 +816,7 @@ endobj
 /Subtype /Widget
 /T (STR)
 /Type /Annot
-/V (+1)
+/V (0)
 >>
 endobj
 73 0 obj
@@ -870,7 +870,7 @@ endobj
 /Subtype /Widget
 /T (Initiative)
 /Type /Annot
-/V (+1)
+/V (+2)
 >>
 endobj
 76 0 obj
@@ -905,7 +905,7 @@ endobj
 /Subtype /Widget
 /T (PersonalityTraits)
 /Type /Annot
-/V <31292049206B656570206D756C7469706C6520686F6C792073796D626F6C73206F6E206D6520616E6420696E766F6B65207768617465766572206465697479206D6967687420636F6D6520696E2075736566656C20617420616E7920676976656E206D6F6D656E742E0A322920492066616C6C20696E20616E64206F7574206F66206C6F766520656173696C792C20616E6420616D20616C77617973207075727375696E6720736F6D656F6E652E>
+/V <3129204920776F726B206861726420736F207468617420492063616E20706C61792068617264207768656E2074686520776F726B20697320646F6E652E0A3229204D7920667269656E6473206B6E6F7720746865792063616E2072656C79206F6E206D652C206E6F206D617474657220776861742E>
 >>
 endobj
 78 0 obj
@@ -923,7 +923,7 @@ endobj
 /Subtype /Widget
 /T (STRscore)
 /Type /Annot
-/V (12)
+/V (10)
 >>
 endobj
 79 0 obj
@@ -940,7 +940,7 @@ endobj
 /Subtype /Widget
 /T (HPMax)
 /Type /Annot
-/V (8)
+/V (7)
 >>
 endobj
 80 0 obj
@@ -958,7 +958,7 @@ endobj
 /Subtype /Widget
 /T (ST Strength)
 /Type /Annot
-/V (+1)
+/V (0)
 >>
 endobj
 81 0 obj
@@ -976,7 +976,7 @@ endobj
 /Subtype /Widget
 /T (DEX)
 /Type /Annot
-/V (+1)
+/V (+2)
 >>
 endobj
 82 0 obj
@@ -994,7 +994,7 @@ endobj
 /Subtype /Widget
 /T (HPCurrent)
 /Type /Annot
-/V (8)
+/V (7)
 >>
 endobj
 83 0 obj
@@ -1011,7 +1011,7 @@ endobj
 /Subtype /Widget
 /T (Ideals)
 /Type /Annot
-/V (Aspiration. I'm determined to make something of myself.)
+/V (Aspiration. Someday I'll own my own ship and chart my own destiny.)
 >>
 endobj
 84 0 obj
@@ -1029,7 +1029,7 @@ endobj
 /Subtype /Widget
 /T (DEXscore)
 /Type /Annot
-/V (12)
+/V (14)
 >>
 endobj
 85 0 obj
@@ -1064,7 +1064,7 @@ endobj
 /Subtype /Widget
 /T (Bonds)
 /Type /Annot
-/V (I owe everything to my mentor - a horrible person who's probably rotting in jail somewhere.)
+/V (I'm loyal to my captain first, everything else is second.)
 >>
 endobj
 87 0 obj
@@ -1082,7 +1082,7 @@ endobj
 /Subtype /Widget
 /T (CON)
 /Type /Annot
-/V (+2)
+/V (-1)
 >>
 endobj
 88 0 obj
@@ -1099,7 +1099,7 @@ endobj
 /Subtype /Widget
 /T (HDTotal)
 /Type /Annot
-/V (1d6)
+/V (1d8)
 >>
 endobj
 89 0 obj
@@ -1192,7 +1192,7 @@ endobj
 /Subtype /Widget
 /T (CONscore)
 /Type /Annot
-/V (15)
+/V (8)
 >>
 endobj
 93 0 obj
@@ -1285,7 +1285,7 @@ endobj
 /Subtype /Widget
 /T (HD)
 /Type /Annot
-/V (1d6)
+/V (1d8)
 >>
 endobj
 97 0 obj
@@ -1302,7 +1302,7 @@ endobj
 /Subtype /Widget
 /T (Flaws)
 /Type /Annot
-/V (I can't resist a pretty face.)
+/V (I'll say anything to avoid having to do extra work.)
 >>
 endobj
 98 0 obj
@@ -1320,7 +1320,7 @@ endobj
 /Subtype /Widget
 /T (INT)
 /Type /Annot
-/V (+2)
+/V (+1)
 >>
 endobj
 99 0 obj
@@ -1338,7 +1338,7 @@ endobj
 /Subtype /Widget
 /T (ST Dexterity)
 /Type /Annot
-/V (+1)
+/V (+4)
 >>
 endobj
 100 0 obj
@@ -1356,7 +1356,7 @@ endobj
 /Subtype /Widget
 /T (ST Constitution)
 /Type /Annot
-/V (+2)
+/V (-1)
 >>
 endobj
 101 0 obj
@@ -1374,7 +1374,7 @@ endobj
 /Subtype /Widget
 /T (ST Intelligence)
 /Type /Annot
-/V (+4)
+/V (+1)
 >>
 endobj
 102 0 obj
@@ -1392,7 +1392,7 @@ endobj
 /Subtype /Widget
 /T (ST Wisdom)
 /Type /Annot
-/V (+1)
+/V (+2)
 >>
 endobj
 103 0 obj
@@ -1410,7 +1410,7 @@ endobj
 /Subtype /Widget
 /T (ST Charisma)
 /Type /Annot
-/V (+2)
+/V (+4)
 >>
 endobj
 104 0 obj
@@ -1428,7 +1428,7 @@ endobj
 /Subtype /Widget
 /T (Acrobatics)
 /Type /Annot
-/V (+1)
+/V (+2)
 >>
 endobj
 105 0 obj
@@ -1446,7 +1446,7 @@ endobj
 /Subtype /Widget
 /T (Animal)
 /Type /Annot
-/V (-1)
+/V (+2)
 >>
 endobj
 106 0 obj
@@ -1464,7 +1464,7 @@ endobj
 /Subtype /Widget
 /T (Athletics)
 /Type /Annot
-/V (+1)
+/V (+2)
 >>
 endobj
 107 0 obj
@@ -1482,7 +1482,7 @@ endobj
 /Subtype /Widget
 /T (Deception)
 /Type /Annot
-/V (+4)
+/V (+2)
 >>
 endobj
 108 0 obj
@@ -1500,7 +1500,7 @@ endobj
 /Subtype /Widget
 /T (History)
 /Type /Annot
-/V (+2)
+/V (+3)
 >>
 endobj
 109 0 obj
@@ -1518,7 +1518,7 @@ endobj
 /Subtype /Widget
 /T (Insight)
 /Type /Annot
-/V (-1)
+/V (+2)
 >>
 endobj
 110 0 obj
@@ -1575,7 +1575,7 @@ endobj
 /Yes 244 0 R
 >>
 >>
-/AS /Off
+/AS /Yes
 /F 4
 /FT /Btn
 /MK <<
@@ -1586,7 +1586,7 @@ endobj
 /Subtype /Widget
 /T (DEXstProf)
 /Type /Annot
-/V /Off
+/V /Yes
 >>
 endobj
 113 0 obj
@@ -1625,7 +1625,7 @@ endobj
 /Yes 250 0 R
 >>
 >>
-/AS /Yes
+/AS /Off
 /F 4
 /FT /Btn
 /MK <<
@@ -1636,7 +1636,7 @@ endobj
 /Subtype /Widget
 /T (INTstProf)
 /Type /Annot
-/V /Yes
+/V /Off
 >>
 endobj
 115 0 obj
@@ -1650,7 +1650,7 @@ endobj
 /Yes 253 0 R
 >>
 >>
-/AS /Yes
+/AS /Off
 /F 4
 /FT /Btn
 /MK <<
@@ -1661,7 +1661,7 @@ endobj
 /Subtype /Widget
 /T (WISstProf)
 /Type /Annot
-/V /Yes
+/V /Off
 >>
 endobj
 116 0 obj
@@ -1675,7 +1675,7 @@ endobj
 /Yes 256 0 R
 >>
 >>
-/AS /Off
+/AS /Yes
 /F 4
 /FT /Btn
 /MK <<
@@ -1686,7 +1686,7 @@ endobj
 /Subtype /Widget
 /T (CHAstProf)
 /Type /Annot
-/V /Off
+/V /Yes
 >>
 endobj
 117 0 obj
@@ -1758,7 +1758,7 @@ endobj
 /Subtype /Widget
 /T (INTscore)
 /Type /Annot
-/V (14)
+/V (13)
 >>
 endobj
 121 0 obj
@@ -1830,7 +1830,7 @@ endobj
 /Subtype /Widget
 /T (Investigation)
 /Type /Annot
-/V (+2)
+/V (+1)
 >>
 endobj
 125 0 obj
@@ -1848,7 +1848,7 @@ endobj
 /Subtype /Widget
 /T (WIS)
 /Type /Annot
-/V (-1)
+/V (+2)
 >>
 endobj
 126 0 obj
@@ -1902,7 +1902,7 @@ endobj
 /Subtype /Widget
 /T (Arcana)
 /Type /Annot
-/V (+4)
+/V (+1)
 >>
 endobj
 129 0 obj
@@ -1938,7 +1938,7 @@ endobj
 /Subtype /Widget
 /T (Perception)
 /Type /Annot
-/V (-1)
+/V (+4)
 >>
 endobj
 131 0 obj
@@ -1956,7 +1956,7 @@ endobj
 /Subtype /Widget
 /T (WISscore)
 /Type /Annot
-/V (8)
+/V (15)
 >>
 endobj
 132 0 obj
@@ -1992,7 +1992,7 @@ endobj
 /Subtype /Widget
 /T (Nature)
 /Type /Annot
-/V (+2)
+/V (+1)
 >>
 endobj
 134 0 obj
@@ -2010,7 +2010,7 @@ endobj
 /Subtype /Widget
 /T (Performance)
 /Type /Annot
-/V (+2)
+/V (+4)
 >>
 endobj
 135 0 obj
@@ -2028,7 +2028,7 @@ endobj
 /Subtype /Widget
 /T (Medicine)
 /Type /Annot
-/V (-1)
+/V (+2)
 >>
 endobj
 136 0 obj
@@ -2046,7 +2046,7 @@ endobj
 /Subtype /Widget
 /T (Religion)
 /Type /Annot
-/V (+4)
+/V (+1)
 >>
 endobj
 137 0 obj
@@ -2064,7 +2064,7 @@ endobj
 /Subtype /Widget
 /T (Stealth)
 /Type /Annot
-/V (+1)
+/V (+2)
 >>
 endobj
 138 0 obj
@@ -2128,7 +2128,7 @@ endobj
 /Yes 286 0 R
 >>
 >>
-/AS /Yes
+/AS /Off
 /F 4
 /FT /Btn
 /MK <<
@@ -2139,7 +2139,7 @@ endobj
 /Subtype /Widget
 /T (Check Box 25)
 /Type /Annot
-/V /Yes
+/V /Off
 >>
 endobj
 141 0 obj
@@ -2153,7 +2153,7 @@ endobj
 /Yes 289 0 R
 >>
 >>
-/AS /Off
+/AS /Yes
 /F 4
 /FT /Btn
 /MK <<
@@ -2164,7 +2164,7 @@ endobj
 /Subtype /Widget
 /T (Check Box 26)
 /Type /Annot
-/V /Off
+/V /Yes
 >>
 endobj
 142 0 obj
@@ -2178,7 +2178,7 @@ endobj
 /Yes 292 0 R
 >>
 >>
-/AS /Yes
+/AS /Off
 /F 4
 /FT /Btn
 /MK <<
@@ -2189,7 +2189,7 @@ endobj
 /Subtype /Widget
 /T (Check Box 27)
 /Type /Annot
-/V /Yes
+/V /Off
 >>
 endobj
 143 0 obj
@@ -2203,7 +2203,7 @@ endobj
 /Yes 295 0 R
 >>
 >>
-/AS /Off
+/AS /Yes
 /F 4
 /FT /Btn
 /MK <<
@@ -2214,7 +2214,7 @@ endobj
 /Subtype /Widget
 /T (Check Box 28)
 /Type /Annot
-/V /Off
+/V /Yes
 >>
 endobj
 144 0 obj
@@ -2353,7 +2353,7 @@ endobj
 /Yes 313 0 R
 >>
 >>
-/AS /Off
+/AS /Yes
 /F 4
 /FT /Btn
 /MK <<
@@ -2364,7 +2364,7 @@ endobj
 /Subtype /Widget
 /T (Check Box 34)
 /Type /Annot
-/V /Off
+/V /Yes
 >>
 endobj
 150 0 obj
@@ -2378,7 +2378,7 @@ endobj
 /Yes 316 0 R
 >>
 >>
-/AS /Off
+/AS /Yes
 /F 4
 /FT /Btn
 /MK <<
@@ -2389,7 +2389,7 @@ endobj
 /Subtype /Widget
 /T (Check Box 35)
 /Type /Annot
-/V /Off
+/V /Yes
 >>
 endobj
 151 0 obj
@@ -2428,7 +2428,7 @@ endobj
 /Yes 322 0 R
 >>
 >>
-/AS /Yes
+/AS /Off
 /F 4
 /FT /Btn
 /MK <<
@@ -2439,7 +2439,7 @@ endobj
 /Subtype /Widget
 /T (Check Box 37)
 /Type /Annot
-/V /Yes
+/V /Off
 >>
 endobj
 153 0 obj
@@ -2453,7 +2453,7 @@ endobj
 /Yes 325 0 R
 >>
 >>
-/AS /Yes
+/AS /Off
 /F 4
 /FT /Btn
 /MK <<
@@ -2464,7 +2464,7 @@ endobj
 /Subtype /Widget
 /T (Check Box 38)
 /Type /Annot
-/V /Yes
+/V /Off
 >>
 endobj
 154 0 obj
@@ -2550,7 +2550,7 @@ endobj
 /Subtype /Widget
 /T (SleightofHand)
 /Type /Annot
-/V (+3)
+/V (+2)
 >>
 endobj
 158 0 obj
@@ -2568,7 +2568,7 @@ endobj
 /Subtype /Widget
 /T (CHAscore)
 /Type /Annot
-/V (14)
+/V (15)
 >>
 endobj
 159 0 obj
@@ -2586,7 +2586,7 @@ endobj
 /Subtype /Widget
 /T (Survival)
 /Type /Annot
-/V (-1)
+/V (+2)
 >>
 endobj
 160 0 obj
@@ -2621,7 +2621,7 @@ endobj
 /Subtype /Widget
 /T (Passive)
 /Type /Annot
-/V (9)
+/V (14)
 >>
 endobj
 162 0 obj
@@ -2745,7 +2745,7 @@ endobj
 /Subtype /Widget
 /T (Equipment)
 /Type /Annot
-/V ()
+/V <626174746C656178650A6C696768742068616D6D65720A6A6176656C696E203478>
 >>
 endobj
 169 0 obj
@@ -6126,7 +6126,7 @@ endobj
 endobj
 368 0 obj
 <<
-/Length 111
+/Length 109
 /BBox [0.0 0.0 105.84 15.656982]
 /FormType 1
 /Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
@@ -6148,7 +6148,7 @@ BT
 /DeviceGray cs
 0 sc
 2 3.3043 Td
-(Wizard 1) Tj
+(Bard 1) Tj
 ET
 Q
 EMC
@@ -6158,7 +6158,7 @@ endstream
 endobj
 369 0 obj
 <<
-/Length 112
+/Length 109
 /BBox [0.0 0.0 86.07199 15.656982]
 /FormType 1
 /Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
@@ -6180,7 +6180,7 @@ BT
 /DeviceGray cs
 0 sc
 2 3.3043 Td
-(Charlatan) Tj
+(Sailor) Tj
 ET
 Q
 EMC
@@ -6222,7 +6222,7 @@ endstream
 endobj
 371 0 obj
 <<
-/Length 137
+/Length 124
 /BBox [0.0 0.0 173.181 20.880005]
 /FormType 1
 /Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
@@ -6243,8 +6243,8 @@ BT
 /F41 18.2487 Tf
 /DeviceGray cs
 0 sc
-28.7879 3.8887 Td
-<536F76656C697373204E61EF6C6F> Tj
+22.1819 3.8887 Td
+(Beiro Siannodel) Tj
 ET
 Q
 EMC
@@ -6254,7 +6254,7 @@ endstream
 endobj
 372 0 obj
 <<
-/Length 111
+/Length 107
 /BBox [0.0 0.0 106.84 15.656982]
 /FormType 1
 /Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
@@ -6276,7 +6276,7 @@ BT
 /DeviceGray cs
 0 sc
 2 3.3043 Td
-(High Elf) Tj
+(Drow) Tj
 ET
 Q
 EMC
@@ -6403,8 +6403,8 @@ BT
 /F41 23.2779 Tf
 /DeviceGray cs
 0 sc
-7.2225 4.4093 Td
-(+1) Tj
+14.0196 4.4093 Td
+(0) Tj
 ET
 Q
 EMC
@@ -6500,7 +6500,7 @@ BT
 /DeviceGray cs
 0 sc
 2 6.9656 Td
-(+1) Tj
+(+2) Tj
 ET
 Q
 EMC
@@ -6542,7 +6542,7 @@ endstream
 endobj
 381 0 obj
 <<
-/Length 902
+/Length 709
 /BBox [0.0 0.0 152.82004 48.600037]
 /FormType 1
 /Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
@@ -6568,69 +6568,55 @@ BT
 14.004 0 Td
 (I ) Tj
 6.672 0 Td
-(keep ) Tj
-29.352 0 Td
-(multiple ) Tj
-44.676 0 Td
-(holy ) Tj
--94.704 -13.872 Td
-(symbols ) Tj
-47.34 0 Td
-(on ) Tj
-16.68 0 Td
-(me ) Tj
-20.004 0 Td
-(and ) Tj
+(work ) Tj
+28.668 0 Td
+(hard ) Tj
+27.348 0 Td
+(so ) Tj
+16.008 0 Td
+(that ) Tj
 23.352 0 Td
-(invoke ) Tj
--107.376 -13.872 Td
-(whatever ) Tj
-52.02 0 Td
-(deity ) Tj
-28.68 0 Td
-(might ) Tj
-32.676 0 Td
-(come ) Tj
--113.376 -13.872 Td
-(in ) Tj
-12.672 0 Td
-(usefel ) Tj
-35.352 0 Td
-(at ) Tj
-13.344 0 Td
-(any ) Tj
-22.68 0 Td
-(given ) Tj
--84.048 -13.872 Td
-(moment.) Tj
+(I ) Tj
+6.672 0 Td
+(can ) Tj
+-122.724 -13.872 Td
+(play ) Tj
+25.344 0 Td
+(hard ) Tj
+27.348 0 Td
+(when ) Tj
+32.016 0 Td
+(the ) Tj
+20.016 0 Td
+(work ) Tj
+28.668 0 Td
+(is ) Tj
+-133.392 -13.872 Td
+(done.) Tj
 0 -13.872 Td
 (2\) ) Tj
 14.004 0 Td
-(I ) Tj
-6.672 0 Td
-(fall ) Tj
-18.672 0 Td
-(in ) Tj
-12.672 0 Td
-(and ) Tj
-23.352 0 Td
-(out ) Tj
-20.016 0 Td
-(of ) Tj
-13.344 0 Td
-(love ) Tj
--108.732 -13.872 Td
-(easily, ) Tj
-37.344 0 Td
-(and ) Tj
-23.352 0 Td
-(am ) Tj
-20.004 0 Td
-(always ) Tj
--80.7 -13.872 Td
-(pursuing ) Tj
-49.356 0 Td
-(someone.) Tj
+(My ) Tj
+19.332 0 Td
+(friends ) Tj
+39.348 0 Td
+(know ) Tj
+31.344 0 Td
+(they ) Tj
+-104.028 -13.872 Td
+(can ) Tj
+22.68 0 Td
+(rely ) Tj
+22.668 0 Td
+(on ) Tj
+16.68 0 Td
+(me, ) Tj
+23.34 0 Td
+(no ) Tj
+16.68 0 Td
+(matter ) Tj
+-102.048 -13.872 Td
+(what.) Tj
 ET
 Q
 EMC
@@ -6662,7 +6648,7 @@ BT
 /DeviceGray cs
 0 sc
 5.3263 2.9854 Td
-(12) Tj
+(10) Tj
 ET
 Q
 EMC
@@ -6694,7 +6680,7 @@ BT
 /DeviceGray cs
 0 sc
 2 2.7609 Td
-(8) Tj
+(7) Tj
 ET
 Q
 EMC
@@ -6704,7 +6690,7 @@ endstream
 endobj
 384 0 obj
 <<
-/Length 106
+/Length 105
 /BBox [0.0 0.0 14.400002 8.631958]
 /FormType 1
 /Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
@@ -6725,8 +6711,8 @@ BT
 /F41 5.0075 Tf
 /DeviceGray cs
 0 sc
-4.3457 2.5183 Td
-(+1) Tj
+5.8079 2.5183 Td
+(0) Tj
 ET
 Q
 EMC
@@ -6758,7 +6744,7 @@ BT
 /DeviceGray cs
 0 sc
 7.2225 4.4093 Td
-(+1) Tj
+(+2) Tj
 ET
 Q
 EMC
@@ -6790,7 +6776,7 @@ BT
 /DeviceGray cs
 0 sc
 66.6338 4.936 Td
-(8) Tj
+(7) Tj
 ET
 Q
 EMC
@@ -6800,7 +6786,7 @@ endstream
 endobj
 387 0 obj
 <<
-/Length 292
+/Length 377
 /BBox [0.0 0.0 152.82004 34.559998]
 /FormType 1
 /Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
@@ -6824,19 +6810,27 @@ BT
 2 18.688 Td
 (Aspiration. ) Tj
 60.024 0 Td
-(I'm ) Tj
-18.96 0 Td
-(determined ) Tj
--78.984 -13.872 Td
-(to ) Tj
-13.344 0 Td
-(make ) Tj
-32.676 0 Td
-(something ) Tj
-58.692 0 Td
-(of ) Tj
--104.712 -13.872 Td
-(myself.) Tj
+(Someday ) Tj
+54.024 0 Td
+(I'll ) Tj
+-114.048 -13.872 Td
+(own ) Tj
+25.344 0 Td
+(my ) Tj
+19.332 0 Td
+(own ) Tj
+25.344 0 Td
+(ship ) Tj
+25.344 0 Td
+(and ) Tj
+23.352 0 Td
+(chart ) Tj
+-118.716 -13.872 Td
+(my ) Tj
+19.332 0 Td
+(own ) Tj
+25.344 0 Td
+(destiny.) Tj
 ET
 Q
 EMC
@@ -6868,7 +6862,7 @@ BT
 /DeviceGray cs
 0 sc
 5.3263 2.9854 Td
-(12) Tj
+(14) Tj
 ET
 Q
 EMC
@@ -6910,7 +6904,7 @@ endstream
 endobj
 390 0 obj
 <<
-/Length 479
+/Length 319
 /BBox [0.0 0.0 152.82004 34.560028]
 /FormType 1
 /Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
@@ -6932,37 +6926,25 @@ BT
 /DeviceGray cs
 0 sc
 2 18.688 Td
-(I ) Tj
-6.672 0 Td
-(owe ) Tj
-25.344 0 Td
-(everything ) Tj
-58.692 0 Td
+(I'm ) Tj
+18.96 0 Td
+(loyal ) Tj
+28.008 0 Td
 (to ) Tj
 13.344 0 Td
 (my ) Tj
--104.052 -13.872 Td
-(mentor ) Tj
-40.68 0 Td
-(- ) Tj
-7.332 0 Td
-(a ) Tj
-10.008 0 Td
-(horrible ) Tj
-43.344 0 Td
-(person ) Tj
--101.364 -13.872 Td
-(who's ) Tj
-33.636 0 Td
-(probably ) Tj
-49.356 0 Td
-(rotting ) Tj
-36.684 0 Td
-(in ) Tj
-12.672 0 Td
-(jail ) Tj
--132.348 -13.872 Td
-(somewhere.) Tj
+19.332 0 Td
+(captain ) Tj
+42.024 0 Td
+(first, ) Tj
+-121.668 -13.872 Td
+(everything ) Tj
+58.692 0 Td
+(else ) Tj
+25.344 0 Td
+(is ) Tj
+12 0 Td
+(second.) Tj
 ET
 Q
 EMC
@@ -6972,7 +6954,7 @@ endstream
 endobj
 391 0 obj
 <<
-/Length 111
+/Length 112
 /BBox [0.0 0.0 40.9817 25.531982]
 /FormType 1
 /Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
@@ -6993,8 +6975,8 @@ BT
 /F41 23.2778 Tf
 /DeviceGray cs
 0 sc
-7.2225 4.4093 Td
-(+2) Tj
+10.1439 4.4093 Td
+(-1) Tj
 ET
 Q
 EMC
@@ -7026,7 +7008,7 @@ BT
 /DeviceGray cs
 0 sc
 2 2.5796 Td
-(1d6) Tj
+(1d8) Tj
 ET
 Q
 EMC
@@ -7060,7 +7042,7 @@ endobj
 endobj
 396 0 obj
 <<
-/Length 108
+/Length 107
 /BBox [0.0 0.0 21.239998 12.807007]
 /FormType 1
 /Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
@@ -7081,8 +7063,8 @@ BT
 /F41 9.5211 Tf
 /DeviceGray cs
 0 sc
-5.3263 2.9854 Td
-(15) Tj
+7.9731 2.9854 Td
+(8) Tj
 ET
 Q
 EMC
@@ -7138,7 +7120,7 @@ BT
 /DeviceGray cs
 0 sc
 16.4606 3.8887 Td
-(1d6) Tj
+(1d8) Tj
 ET
 Q
 EMC
@@ -7148,7 +7130,7 @@ endstream
 endobj
 401 0 obj
 <<
-/Length 215
+/Length 315
 /BBox [0.0 0.0 152.82004 34.559998]
 /FormType 1
 /Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
@@ -7170,17 +7152,25 @@ BT
 /DeviceGray cs
 0 sc
 2 18.688 Td
-(I ) Tj
-6.672 0 Td
-(can't ) Tj
-28.308 0 Td
-(resist ) Tj
-32.004 0 Td
-(a ) Tj
-10.008 0 Td
-(pretty ) Tj
-33.348 0 Td
-(face.) Tj
+(I'll ) Tj
+14.292 0 Td
+(say ) Tj
+22.008 0 Td
+(anything ) Tj
+48.696 0 Td
+(to ) Tj
+13.344 0 Td
+(avoid ) Tj
+-98.34 -13.872 Td
+(having ) Tj
+38.688 0 Td
+(to ) Tj
+13.344 0 Td
+(do ) Tj
+16.68 0 Td
+(extra ) Tj
+30.012 0 Td
+(work.) Tj
 ET
 Q
 EMC
@@ -7212,7 +7202,7 @@ BT
 /DeviceGray cs
 0 sc
 7.2225 4.4093 Td
-(+2) Tj
+(+1) Tj
 ET
 Q
 EMC
@@ -7244,7 +7234,7 @@ BT
 /DeviceGray cs
 0 sc
 4.3457 2.5183 Td
-(+1) Tj
+(+4) Tj
 ET
 Q
 EMC
@@ -7275,8 +7265,8 @@ BT
 /F41 5.0075 Tf
 /DeviceGray cs
 0 sc
-4.3457 2.5183 Td
-(+2) Tj
+4.9742 2.5183 Td
+(-1) Tj
 ET
 Q
 EMC
@@ -7308,7 +7298,7 @@ BT
 /DeviceGray cs
 0 sc
 4.3457 2.5183 Td
-(+4) Tj
+(+1) Tj
 ET
 Q
 EMC
@@ -7340,7 +7330,7 @@ BT
 /DeviceGray cs
 0 sc
 4.3457 2.5183 Td
-(+1) Tj
+(+2) Tj
 ET
 Q
 EMC
@@ -7372,7 +7362,7 @@ BT
 /DeviceGray cs
 0 sc
 4.3457 2.5183 Td
-(+2) Tj
+(+4) Tj
 ET
 Q
 EMC
@@ -7404,7 +7394,7 @@ BT
 /DeviceGray cs
 0 sc
 4.3457 2.5183 Td
-(+1) Tj
+(+2) Tj
 ET
 Q
 EMC
@@ -7435,8 +7425,8 @@ BT
 /F41 5.0076 Tf
 /DeviceGray cs
 0 sc
-4.9741 2.5183 Td
-(-1) Tj
+4.3457 2.5183 Td
+(+2) Tj
 ET
 Q
 EMC
@@ -7468,7 +7458,7 @@ BT
 /DeviceGray cs
 0 sc
 4.3457 2.5183 Td
-(+1) Tj
+(+2) Tj
 ET
 Q
 EMC
@@ -7500,7 +7490,7 @@ BT
 /DeviceGray cs
 0 sc
 4.3457 2.5183 Td
-(+4) Tj
+(+2) Tj
 ET
 Q
 EMC
@@ -7532,7 +7522,7 @@ BT
 /DeviceGray cs
 0 sc
 4.3457 2.5183 Td
-(+2) Tj
+(+3) Tj
 ET
 Q
 EMC
@@ -7563,8 +7553,8 @@ BT
 /F41 5.0076 Tf
 /DeviceGray cs
 0 sc
-4.9741 2.5183 Td
-(-1) Tj
+4.3457 2.5183 Td
+(+2) Tj
 ET
 Q
 EMC
@@ -7772,7 +7762,7 @@ BT
 /DeviceGray cs
 0 sc
 5.3263 2.9854 Td
-(14) Tj
+(13) Tj
 ET
 Q
 EMC
@@ -7900,7 +7890,7 @@ BT
 /DeviceGray cs
 0 sc
 4.3457 2.5183 Td
-(+2) Tj
+(+1) Tj
 ET
 Q
 EMC
@@ -7910,7 +7900,7 @@ endstream
 endobj
 429 0 obj
 <<
-/Length 112
+/Length 111
 /BBox [0.0 0.0 40.9817 25.531982]
 /FormType 1
 /Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
@@ -7931,8 +7921,8 @@ BT
 /F41 23.2778 Tf
 /DeviceGray cs
 0 sc
-10.1439 4.4093 Td
-(-1) Tj
+7.2225 4.4093 Td
+(+2) Tj
 ET
 Q
 EMC
@@ -8028,7 +8018,7 @@ BT
 /DeviceGray cs
 0 sc
 4.3457 2.5183 Td
-(+4) Tj
+(+1) Tj
 ET
 Q
 EMC
@@ -8091,8 +8081,8 @@ BT
 /F41 5.0076 Tf
 /DeviceGray cs
 0 sc
-4.9741 2.5183 Td
-(-1) Tj
+4.3457 2.5183 Td
+(+4) Tj
 ET
 Q
 EMC
@@ -8102,7 +8092,7 @@ endstream
 endobj
 435 0 obj
 <<
-/Length 107
+/Length 108
 /BBox [0.0 0.0 21.239998 12.807007]
 /FormType 1
 /Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
@@ -8123,8 +8113,8 @@ BT
 /F41 9.5211 Tf
 /DeviceGray cs
 0 sc
-7.9731 2.9854 Td
-(8) Tj
+5.3263 2.9854 Td
+(15) Tj
 ET
 Q
 EMC
@@ -8188,7 +8178,7 @@ BT
 /DeviceGray cs
 0 sc
 4.3457 2.5183 Td
-(+2) Tj
+(+1) Tj
 ET
 Q
 EMC
@@ -8220,7 +8210,7 @@ BT
 /DeviceGray cs
 0 sc
 4.3457 2.5183 Td
-(+2) Tj
+(+4) Tj
 ET
 Q
 EMC
@@ -8251,8 +8241,8 @@ BT
 /F41 5.0076 Tf
 /DeviceGray cs
 0 sc
-4.9741 2.5183 Td
-(-1) Tj
+4.3457 2.5183 Td
+(+2) Tj
 ET
 Q
 EMC
@@ -8284,7 +8274,7 @@ BT
 /DeviceGray cs
 0 sc
 4.3457 2.5183 Td
-(+4) Tj
+(+1) Tj
 ET
 Q
 EMC
@@ -8316,7 +8306,7 @@ BT
 /DeviceGray cs
 0 sc
 4.3457 2.5183 Td
-(+1) Tj
+(+2) Tj
 ET
 Q
 EMC
@@ -8524,7 +8514,7 @@ BT
 /DeviceGray cs
 0 sc
 4.3457 2.5183 Td
-(+3) Tj
+(+2) Tj
 ET
 Q
 EMC
@@ -8556,7 +8546,7 @@ BT
 /DeviceGray cs
 0 sc
 5.3263 2.9854 Td
-(14) Tj
+(15) Tj
 ET
 Q
 EMC
@@ -8587,8 +8577,8 @@ BT
 /F41 5.0076 Tf
 /DeviceGray cs
 0 sc
-4.9741 2.5183 Td
-(-1) Tj
+4.3457 2.5183 Td
+(+2) Tj
 ET
 Q
 EMC
@@ -8630,7 +8620,7 @@ endstream
 endobj
 465 0 obj
 <<
-/Length 109
+/Length 110
 /BBox [0.0 0.0 21.239899 16.559998]
 /FormType 1
 /Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
@@ -8651,8 +8641,8 @@ BT
 /F41 13.5784 Tf
 /DeviceGray cs
 0 sc
-6.8452 3.4054 Td
-(9) Tj
+3.0704 3.4054 Td
+(14) Tj
 ET
 Q
 EMC
@@ -8858,7 +8848,7 @@ endstream
 endobj
 472 0 obj
 <<
-/Length 103
+/Length 213
 /BBox [0.0 0.0 119.879974 162.7202]
 /FormType 1
 /Matrix [1.0 0.0 0.0 1.0 0.0 0.0]
@@ -8880,7 +8870,15 @@ BT
 /DeviceGray cs
 0 sc
 2 146.8482 Td
-( ) Tj
+(battleaxe) Tj
+0 -13.872 Td
+(light ) Tj
+25.344 0 Td
+(hammer) Tj
+-25.344 -13.872 Td
+(javelin ) Tj
+37.344 0 Td
+(4x) Tj
 ET
 Q
 EMC
@@ -16941,7 +16939,7 @@ endstream
 endobj
 1117 0 obj
 <<
-/Length 2886
+/Length 2876
 /ID [<B98C2D7474E949FABB196E54C923BC02> <D172289F5A65DE45B96750CE1C030F20>]
 /Info 19 0 R
 /Root 1 0 R
@@ -16952,22 +16950,18 @@ endobj
 /Filter /FlateDecode
 >>
 stream
-xœ×w`ˆWÇñó»÷±¥¨QÄê ÄªY«j¶jï]{U”ÕÚ«¨*-Ş¾­*ÚZÕ–¢ÓN…HòÊ"[+öÈ’÷ûÇç¸÷¹÷ÜsÎ½	33™‘¹¿eùÇÈÊ>–…vÇ&äÊÊcåŸÅ|\’UhŠH“Ul7Á|eË*µUæçÊÑ²*uÀ¼*÷eÏ÷Áo²ª¡øgeÕZb½,,F#BV½:–â¦¬F7ìÕ,‰wqJV‹½k}b«=e/TÆ\‘Õé€m²ºœ©î$ÄÊê5À*dÈêÃ!Yöi0‰²†ŸÉ^ì,k$ğsã%²&mq[Öt«¬Ù ÙK¥A|ÍçÊ^n"kÙUÖŠ¸[ı*kÍ>mÈO›dYÛ²WˆõÕ²vìÛî_Ùk_ÊÚ/”u`¿ìß©”¬³Cº¬K’¬ë'²nıdİáˆ¬Ç"YÏö²^¬ß‹õz$ëÃZ}ÈIßÍ²~ÃeıË|`| ç}}µlĞÙàñ²!äzhE\—Û-Î¿h(é%ÅùF¿,S œ÷e²±ıeãˆkÜ1Ùxö{“ıŞ¼#›°EöÖHÙÄò²IÌŸôP6ù²ìmò:e¿lêvÙ;Ôã]b~s¿ÏÜi=dPÛéµeòİGœë#r?ƒ\ÌŒ—ÍZ.›İE6‡óÍÙ+›;]6¯>Reó÷ÈŒ•-ä|‰uÑLÙÇõpK¶¸/öÉ–ëêç0"[S‘²¯3ekùv-}¹vfƒ9kÃA¿~SÔæêıÍDPûov"dëÊ¢¨ù:ö^÷-è—uÄöm~„¡£l=gÛ@Om<.ûî'ÙôÇ&ÖÜLÏoY#ÛJÿo¥¶ÅÉ¶³ŞO“e?÷’ıò—lÇ]ÙNöÛEŒ»§àpîİôÂnîĞ
-àí¡WöĞo{¾}±çªì·Â¨úï7Öü½“ìzâÏÙ_Ôj/1îc|?µ:0JvZânæá|ÿÏaYÄ3²£ídÇèÙHÎxœõ³şqÆ£X?Šï£X?Šõ£VbN‚ÜF“Ûhâ&·Ñä6šÜF“ÛhrCncÈmyˆ!·ÿã.øAKãxòÊ?™Ovj„,écÙiú%™Náû3Üås•dç_‘]xZv‘>¼Äú—gÈR¹[iÜ™4j}•ûwı¯óÜ ïÓyŸn’ó[dwˆï=z¯§ìş4ÙrşğÙ#âÏà-É**Ëæ.ä“= Ë]É¥KR¤äîHş¸”'LÊÛUÊW]Ê¿P*ğ£Tp‘T(U
-)ŒZ`<d2ø>dN"Sz¢šcfcÂ‘&Õ¼!½Êoş,­\%íZ/ÅÖ“.´•Ë;T®è~¹b-±W®ø*¹’yPK®4¡…Â&¹J;qC®jG|.Wë?rµ#åê0§n˜\½wåê3¯Aœ\Ã¹F/È5.×„õšFÈ5K—k^L®Õër­—ÉµÙ!×ö‚Ü«%åÚ½"×ù†Éu\!×¥‘\×qrİ>Ã¹î-À:=X§g%°WÏ(¹ŞN®ÏZ¹¾'äúÇ Ö8XîõOäı%7øºÜĞP¹aíå†¿/7â¹‘‰r£ó‚8Fs¦1…À¾c~“{£¨ÜØrãúËŸ!G¾Ü„¹·²ä&±ïä.roÏ‘›Â:SË½“-÷ŞÓrïw•›6KîÖ›~Qî£'åfÏ™åfß¬r³;aXkNw«¹†>øQn9Ÿ7äe~APŞ$· ¨ÁÎ³ó|Ìy³Ö’érK×Ë}B|Ÿ[>^î3öZA.>ä¾xQnÕ¹ÕäzÍf¹/wËı÷¤Ü×|÷ÇV¹¿Éí‚mÈ”ÛWŒíû¬±î¯
-ò¹ÿpŞıä<‹Î˜‡?qWî õ?ØKÀ>©ë¡PÇCo^9tZî0y?ü¦`ˆ=œyáÌg^8óÂËıS=Aşa½Xïó0ï=u„ú	Çc¹æF07‚¹œ3"^î(y=Z½A]RÛ£·å•sç1Ö=Æº‘eA="?uŒëgİãÔ7êy0ÅxÔ¯8'MÏD75Šf­hÖŠ¾)ÃÜòC¯Æ ÷å¥ÑğÎÈ(úã5;ÁÜÌ=ÁÜXæÆ27–¹±k@bY7ã¸«qôS1Æc1Æc<ç‰çìñœ=³'pöÎÀÙ8{µN ç¹+‰5Ñôp"=—˜*w’;y²Fƒûv’>;™&wª8šã¬w=‰¾Jbns“˜›ÄÜ¤ûr§¹§;€uO³îiÖMfİä×@­“‰!ù’\
-ùO!Şr–BŸ§$ÉáŞizñÌğıÎq–zŸ­àM8û;îÈ+ŞƒsÄp>8GMÎ%Ë÷ ÏwÃ{à.œ§GÎ“×%ĞÜó‹ğÈÉrx±2xÓ.¾úï"½‰ûw©¦á\•»ü8Ïeö¼Ì—Ù3•=SÙ3•=SÙ3•=SÙ3õÜ¿Ìÿ·>Åßàî¦QÇ4æ¦Q¯4î]wâ
-w÷
-wõÊHpÎ+GÁ=»Z¼‹W#Fîïä5Ş¥kìq\^§ö×é“ë¼×9Çb»Á]¿AîÒ©G:oF:ïWúC¹›Ü¹›Á›y‹üİ¢Gomwâ6wêö\ã×ïÖA`ìcw»K¬w»ÇØ=Æî1v³Ü¯òsŸßòƒ·ñïÄƒ¹‡Ï÷›ßî!±=¢w-ïOçÊ ¶Æ22ä2Ë¤2éé,ò“ÅX¹Éb,›:gÓÙÄÃX÷-‡±òû˜z>ÆrÉM.c¹ÜÜ›òÖ³!¯’ˆõ¸*ïs‚1_}ğ5ê€±à|BèÆò\–ÏËXŞ÷±_>_ôcù®Éç¯‡pP¾ kè‹¸!_°X³àQùBOb0¾q~s)RC±	·åù]îŸ˜Xù"¡-x$_´–"^¾XyŒÄ/È”òU,C¢|ñŠò%ø£ÄkXSò%«`ş/åÑ+pZş©g1;%_º5ƒXÊKb)C,eîÈ—mŒ™8"ÊÙCÉg(y	%gåj`
-ş”/ #V"Y¾{T`JoÈ?3Zş9ÎP…u«’ƒ0rTãuùZä_è'_—5ë÷’oØC¾Q7ù&]ä›u’oNÌ-8S+ÎÜ¦­ü+ÄÙ®¥|û—å;¾$ß¹©|WâëN{R‡ŞÔ©/uì_[~`MùAÕå‡T“ö¼üˆÊò£ˆiÌÓòcÉÛxò:³N¤.“Ÿ’ŸB½S\ş½bòÓŠÈO‘çÿ~&½0;ŸüÜ<òóÉ#¶ùE¹ò‹sä—’»eòËÊ¯¸/ÿù]ùUÔvµÿ’ŞøŠŞY{E~İ¿òëÉ×Æ‹òßŸ—ßtV~KŠü6j±ZıL-wPë_É±ß%'÷øîõy¸KşùÍ0ĞçkqA>“óduÊL—ÏâÜYÔ"k7è“lò“Mİ²éÙœ¼ 9KğXşñD°F.9Ï=¢Àšb*P>tÀ2Ä*pOa ¾RàKc…‚à	,R' ßåÉTw*n)È7©
-òE²‚}pBAÁN`¯B­1
-
-‡ >Ç)!åÁw!qEÁ51	¿"CA‘—0‡- Ö,ºñ
-Š•ÅüˆG
-l…%HPP¼Æb'+(ÑŸø¸'AÉ‰ø]A)ÎSª3Vã‚‚§jàìSPº zâk¤)(SÓ® lQôÇ¤+m„ÙˆTP®†`3î)(ßAN*”Ã(ürXq‚ç[*¨JUÃpCAµâèö	+òÆ>a‰
-jîPĞ¨È_“íÿ²¢ay
+xœÖw|ÈÇÇñ{ß}%öÕaï]Tíª½jojï½7µªvñSDUÕÖ­‘IHb&ˆ+¶I~¯?¹ûŞ}îóùÜ%Æ#c²ÊØã2>ƒd
+|”ñk‡H“)ØŒú?àLáÚX…Ç2E¾Æp0_©2EëÉãÿÅÂdŠWóŠ¿“)Ñ	GdJúa:îÈ”ª­2¥Óa ÎÉ”)ƒ¥x)S¶-öÉ”Ë‰¸!S½Ëo±Uèƒ ™ŠÅ° Od*5Çn™Êœ©òhDÈT©†µH’©Úgdª±Oµñ¸&S}¹L¦ ş/ejN©UQ2µ–ùª‰La¯Ì×œ­.¹¨$SšLƒ²x$Óp½L#òÖ¸!e¾!†&«e¾ıÉ2M™Ó,R¦ù)™ãdZö–iÕB¦õ—x&Ó&D¦íL™v_áƒL{rşİd™ÕñF¦#ùíÔO¦sasbîÚR¦ãİ?•é‘	2=cdz]éMŞû°G_ÎÙ—ŸõûCæ{rØ¿Ì j>€¼¤ƒÈ×`‡P™!‹e†R¿¡oe†185Q7eF®”5Cfô0™1]eÆ~+3½Ç!3!è›‰œcs'ËL9(3õ7™i|7}–ÌŒ23é¥YÍdf§5˜3EfnU¼–™Ç~óÿ¡<ˆwß-l„÷2‹âdÿ.³$&É¬`¿µÑ2ë¨Ã:¾Y·eÖÏ“ÙD6‘çM|·9j9›‰}³?Nƒö'ÿ’ ÎäÿşA8âe¶äµÙÂY·Pç-›p÷d~õ@=k-³m¾ÌvîÍK2;Ys'=¸‹¾ı“~ü“šíşQæ/Öû§´Ì_™½ôÜ¾]2ûÙï 1¢µÂ(pæCûqôĞá ÷9<ü+ÈÛá‡2G|ÀšG¹;ÿÒÓÿ-”9F'ÆŒŸ¤ÏNÓ+äğL™@Îp–ïƒ¨y05:Oœ§¿/rÆÖaıÆCX?„ïCY?”õCéÑPjJ¿…’ÛPrJÜaä6ŒÜ†‘Û0rFnÃÈm¹½D.‘ÛËôU8=Á»É]½BO_eüÚ	™enÒ‹Q…d¢éƒ[|{ªÌë21ôÒ]îú}úëëÇÖyÈ]ztTæ1µ~Â}ˆcÿ8úôy™Ü×—äüÕ_2¯‰ïÍß2ñÜ‡w•eŞ“ó„!2‰ÄŸ4T&™ŞLy!“Ê[ó±¸LZ.v	Ió$û‡äæKŞ=)½îK>õ¤Œ¤OêK™6I™Ïà¡äË¸oiğ½ï,Ç^Dâ½”%j¡;fÀ_*·MjÂÃK«[K»IáqÒİ²éóËf›Œ$Ùìes¶–Íueó‘õ+Œ>²E‡a›lI-eË·“­0G¶â~ÙJ·d«’­Ú\¶ÚÙê›ek„ËÖL'[«¦lí¡²_-—­³O¶ş×²FÉ6\-Ûè´lãw²MŠË6í/Ûl­ló`Ù–!²„iÛ”ÄL\•m[N¶]OmŸıd¿c~Çu².ÈvN–íZJ¶[gÙîd{”í+Û;—lŸ†²}ÇÈöÛ"ûı%Ùşi²:b·ì@Î3°öÊÊ(;¸¼ìö²C'ÉòÙáa²#âeG‘§ÑßÊ™*;Ö_v\ ìx~>‘ŸOâç“§ÈNa½©Ñ²Ó3ÉÎ¨%;s°ì,â›õRvö7Ø¾™Cæü
+r>·và£ì¼øSv¾CWì‘ıÁ½ÀypEœg1k-/ûã/²K9Ï2æ/ »b½ìÊ‹²«XkM%ÙŸù÷ÚÙõ9d7‘ı¥ìÆ²ÿ²Æ±²²ÇÉõ‰Üè¾=ÁØÉ¬ ö“Ôã$5;Ö;U½±Ärê¹ìé/@îN¯=sš³°O@3_ y
+¸&{Æ‚œzè9
+Ì	z!yÌdŞYæ¥ÎgWà?<’b½ Öb^ó‚¨uĞ{Ù`êÌ™ƒ™ÌÜ`æãœçê`Vá8Èÿ]0Ì=OœX÷ë^ ‡/¹½˜µÁºY7ä{,ã!Œ‡Òã¡Ô:t,6áX+ŒµÂ:¹aä+ŒşºTÔóÒ,ì=|9¨İåØ‰H07œ¹áÌgn8sÃ™AÿGP£Ö Æz+âºl$1Fc$1Fc$ç‰äìW8ûÎ~…³_áì¼yö
+g¿J­¯ÖÅ¬ÁIÄÉ^ËƒVàî_ûôù5îĞõb '¯Óç×·ã2ReoToÀæŞ`îæŞdîÍXîöMÖbİ(Öbİ(ú7ŠZGCtÿhâ&g·üĞ Ü‘[ÜË[ôâ-îÉm¾¿Í9nSïÛô÷í ¤ÈŞùÜ‰;³ñ;ˆá}CMb7&†>ŒáÍŠ‰‘½›ôÈ]òzw¶â<^ËŞËrrŞ[
+Ş°{Q²÷é¿ûôş}ŞŠûÜıû÷d oİƒÅà<Ø3–=cÙ3–=cÙ3–=cÙó!{>dÏ‡İÁü‡§(ûˆ÷íÑw ˜ûˆz=æŞ=æN<ŞËÇ¼y9ç“Êà=á{òŞÊ>ıÓÁ{Çqä2ÚÇÑ'ÏŠ‚s<#¶gÜõçäî9õx*û‚·éoÇîÜ‹W²/«ƒü½¤G_ù‚;ñŠ;õê™ìë*à{}Vöco{ÃØb}ËØ[ÆŞ2ÏX<g‰ß òó7÷ïù»Càxß?"B6Ü%[½›À[—Èû“È¹‰-‰±$~¯$1–D?$ÓÓÉä'™±r“ÂX
+uN¡'R‰;•1~wÚŒ} ¿¨ç‡§²ûHn>2–ÆİHã¾¤q7ÓÊ™J˜3rÊ„vØ„X9Ë˜„r.=sëÁ˜WcqT.céZ‚±twåÒ—Âh—ËÀX†öØ€ûr>eÀš>'å2ú¢6‚5?©Œ)’Ë”°Ïä2WÅlœ“óÍ.ØrYjc..ÈeÍ‰Şøïä²ÕÁ|„Èe/€¾ø	r9êb"årÄ`ìA’\®úø	Wår¡Ø‡¹<±ryıĞ»ğV.±ä#–|Ä’ŸXòwÅ<–+Pœ½ ùô#/~äÌo5¢å
+~aØT¹BÀ…Ø£Èe¹OÃä>çÅX·9(EÊÊ•«pJ®kV9&Wí_¹Gäj’«}@¿'\]ÎTŸ37Ü-×˜8›ì”kºC®ù6¹–[åZ_[òÜ:t N¨c—µrİÖÈõX%×k…\Ÿerı–Êõ'¦‹ä“·¡äu8gI]FÏ”KŸ*7q²Üä‰rSÇËM§GfÒ³GÊÍÎŸpäqy^4PnI¹¥änY¹½äVõ[ÓMn-µ]Oí7ĞéÍmå¶´–ÛJ¾¶5—ÛÑTng¹]åvS‹¿©Õj¹Z ÿ7ˆı9‰ç»÷Ô'¡°\"ùMú<)šó$]’K¦NÉÁ¹“©EJĞ')ä'…º¥Ò³©#@Sãå>Àu¹¬ñ‘œ§Q×4ò˜öH)ƒ‘Ø‡yª™gÓaRä¹	x-Ï¾K×·ä¥ïŒyZáœ<ŸF8!/c-÷IEìÂsy™*a<àƒ¼Ìõ1|çë‹¶Xƒò²BlÃyYËa4X3k’<î‰—m.ÊË½ñâååø.{âå€,/ñqO¼\×ååşœ'÷Ayyša5nËË[cğŸ¼|éÑÿÃyùËcNË+á§òüªb‚åÌîØWò
+‘“Bó*¯p>ÃÂgåß)¯q”X)¯dLÅ)y¥Ø§Ô8ÒìSº®¼r~òjLù«•÷ÿE‰s
 endstream
 endobj
 startxref
-277626
+277474
 %%EOF

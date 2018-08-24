@@ -278,6 +278,9 @@ public abstract class CharacterWriter {
                     case "PersonalityTraits":
                         field.setValue("1) " + character.getPersonalityTraits()[0] + "\n2) " + character.getPersonalityTraits()[1]);
                         break;
+                    case "Equipment":
+                        field.setValue(character.getEquipmentFormatted());
+                        break;
                 }
             }
             doc.getDocumentCatalog().getAcroForm().refreshAppearances();
