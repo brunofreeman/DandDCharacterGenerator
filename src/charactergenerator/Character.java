@@ -856,18 +856,29 @@ public class Character {
         try {
             switch (firstClass) {
                 case BARBARIAN:
-                case PALADIN:
-                case RANGER:
-                case FIGHTER:
-                case BARD:
-                case CLERIC:
-                case DRUID:
-                case MONK:
-                case ROGUE:
-                case WARLOCK:
-                case WIZARD:
-                case SORCERER:
                     return randomClassEquipment("barbarianClassEquipment");
+                case BARD:
+                    return randomClassEquipment("bardClassEquipment");
+                case CLERIC:
+                    return randomClassEquipment("clericClassEquipment");
+                case DRUID:
+                    return randomClassEquipment("druidClassEquipment");
+                case FIGHTER:
+                    return randomClassEquipment("fighterClassEquipment");
+                case MONK:
+                    return randomClassEquipment("monkClassEquipment");
+                case PALADIN:
+                    return randomClassEquipment("paladinClassEquipment");
+                case RANGER:
+                    return randomClassEquipment("rangerClassEquipment");
+                case ROGUE:
+                    return randomClassEquipment("rogueClassEquipment");
+                case SORCERER:
+                    return randomClassEquipment("sorcererClassEquipment");
+                case WARLOCK:
+                    return randomClassEquipment("warlockClassEquipment");
+                case WIZARD:
+                    return randomClassEquipment("wizardClassEquipment");
                 default:
                     throw new IllegalArgumentException();
             }
@@ -885,10 +896,20 @@ public class Character {
                 if (line.contains("|")) {
                     line = decideEquipmentChoice(line);
                 }
-                if (line.contains("any(")) {
-                    line = chooseEquipment(line);
+                if (line.contains("&")) {
+                    String[] parts = line.split("&");
+                    for (int i = 0; i < parts.length; i++) {
+                        if (parts[i].contains("any(")) {
+                            parts[i] = chooseEquipment(line);
+                        }
+                        equipment.add(parts[i]);
+                    }
+                } else {
+                    if (line.contains("any(")) {
+                        line = chooseEquipment(line);
+                    }
+                    equipment.add(line);
                 }
-                equipment.add(line);
             }
             return equipment;
         } catch (FileNotFoundException e) {

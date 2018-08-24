@@ -1,0 +1,6 @@
+rapier|shortsword
+shortbow&quiver&arrow 20x|shortsword
+burglar's pack|dungeoneer's pack|explorer's pack
+leather armor
+dagger 2x
+thieves' tools

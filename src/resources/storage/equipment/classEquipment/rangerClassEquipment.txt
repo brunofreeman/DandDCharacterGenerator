@@ -1,0 +1,6 @@
+scale mail|leather armor
+shortsword 2x|any(simpleMeleeWeapon)&any(simpleMeleeWeapon)
+dungeoneer's pack|explorer's pack
+longbow
+quiver
+arrow 20x

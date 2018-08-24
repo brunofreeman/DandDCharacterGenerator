@@ -1,0 +1,5 @@
+wooden shield|any(simpleWeapon)
+scimitar|any(simpleMeleeWeapon)
+leather armor
+explorer's pack
+any(druidicFocus)

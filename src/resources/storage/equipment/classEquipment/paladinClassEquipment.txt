@@ -1,0 +1,5 @@
+any(martialWeapon)&shield|any(martialWeapon)&any(martialWeapon)
+javelin 5x|any(simpleMeleeWeapon)
+priest's pack|explorer's pack
+chain mail
+any(holySymbol)

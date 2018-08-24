@@ -1,0 +1,3 @@
+shortsword|any(simpleWeapon)
+dungeoneer's pack|explorer's pack
+dart 10x

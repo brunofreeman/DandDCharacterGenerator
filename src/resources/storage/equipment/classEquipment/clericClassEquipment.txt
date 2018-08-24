@@ -1,0 +1,6 @@
+mace|warhammer?proficient:martialMeleeWeapons
+scale mail|leather armor|chain mail?proficient:heavyArmor
+light crossbow&bolt 20x|any(simpleWeapon)
+priest's pack|explorer's pack
+shield
+any(holySymbol)

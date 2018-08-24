@@ -1,0 +1,6 @@
+light crossbow&bolt 20x|any(simpleWeapon)
+component pouch|any(arcaneFocus)
+scholar's pack|dungeoneer's pack
+leather armor
+any(simpleWeapon)
+dagger 2x

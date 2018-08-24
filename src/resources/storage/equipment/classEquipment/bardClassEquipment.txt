@@ -1,0 +1,5 @@
+rapier|longsword|any(simpleWeapon)
+diplomat's pack|entertainer's pack
+any(musicalInstrument)
+leather armor
+dagger

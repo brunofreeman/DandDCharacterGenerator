@@ -1,0 +1,4 @@
+quarterstaff|dagger
+component pouch|any(arcaneFocus)
+scholar's pack|explorer's pack
+spellbook

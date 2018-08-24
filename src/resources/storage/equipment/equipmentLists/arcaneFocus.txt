@@ -1,0 +1,5 @@
+crystal
+orb
+rod
+staff
+wand

@@ -1,3 +1,4 @@
 any(martialMeleeWeapon)
 handaxe 2x|any(simpleWeapon)
-explorer's pack|javelin 4x
+explorer's pack
+javelin 4x

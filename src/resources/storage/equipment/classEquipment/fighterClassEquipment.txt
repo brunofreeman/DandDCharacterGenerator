@@ -1,0 +1,4 @@
+chain mail|leather armor&longbow&arrow 20x
+any(martialWeapon)&shield|any(martialWeapon)&any(martialWeapon)
+light crossbow&bolt 20x|handaxe 2x
+dungeoneer's pack|explorer's pack
