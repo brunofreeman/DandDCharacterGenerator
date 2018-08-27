@@ -1,0 +1,4 @@
+any(musicalInstrument)
+love letter|lock of hair|any(trinket)
+costume
+belt pouch

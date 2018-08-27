@@ -72,8 +72,9 @@ public class Character {
         equipment = new ArrayList<>();
         coins = new int[5];
         equipment.addAll(getStartingEquipment(firstClass));
-        //equipment.addAll(getStartingEquipment(background));
-        //equipment.addAll(getStartingEquipment());
+        equipment.addAll(getStartingEquipment(background));
+        //background money
+        //background feature
     }
 
     public void levelCharacter() {
@@ -856,29 +857,29 @@ public class Character {
         try {
             switch (firstClass) {
                 case BARBARIAN:
-                    return randomClassEquipment("barbarianClassEquipment");
+                    return randomEquipment("class", "barbarianClassEquipment");
                 case BARD:
-                    return randomClassEquipment("bardClassEquipment");
+                    return randomEquipment("class", "bardClassEquipment");
                 case CLERIC:
-                    return randomClassEquipment("clericClassEquipment");
+                    return randomEquipment("class", "clericClassEquipment");
                 case DRUID:
-                    return randomClassEquipment("druidClassEquipment");
+                    return randomEquipment("class", "druidClassEquipment");
                 case FIGHTER:
-                    return randomClassEquipment("fighterClassEquipment");
+                    return randomEquipment("class", "fighterClassEquipment");
                 case MONK:
-                    return randomClassEquipment("monkClassEquipment");
+                    return randomEquipment("class", "monkClassEquipment");
                 case PALADIN:
-                    return randomClassEquipment("paladinClassEquipment");
+                    return randomEquipment("class", "paladinClassEquipment");
                 case RANGER:
-                    return randomClassEquipment("rangerClassEquipment");
+                    return randomEquipment("class", "rangerClassEquipment");
                 case ROGUE:
-                    return randomClassEquipment("rogueClassEquipment");
+                    return randomEquipment("class", "rogueClassEquipment");
                 case SORCERER:
-                    return randomClassEquipment("sorcererClassEquipment");
+                    return randomEquipment("class", "sorcererClassEquipment");
                 case WARLOCK:
-                    return randomClassEquipment("warlockClassEquipment");
+                    return randomEquipment("class", "warlockClassEquipment");
                 case WIZARD:
-                    return randomClassEquipment("wizardClassEquipment");
+                    return randomEquipment("class", "wizardClassEquipment");
                 default:
                     throw new IllegalArgumentException();
             }
@@ -887,9 +888,46 @@ public class Character {
         }  
     }
 
-    public ArrayList<String> randomClassEquipment(String fileName) throws FileNotFoundException {
+    public ArrayList<String> getStartingEquipment(Background background) { //give each character a trinket
         try {
-            Scanner fileInput = new Scanner(new File(filePath + "equipment\\classEquipment\\" + fileName + ".txt"));
+            switch (background) {
+                case ACOLYTE:
+                    return randomEquipment("background", "acolyteBackgroundEquipment");
+                case CHARLATAN:
+                    return randomEquipment("background", "charlatanBackgroundEquipment");
+                case CRIMINAL:
+                    return randomEquipment("background", "criminalBackgroundEquipment");
+                case ENTERTAINER:
+                    return randomEquipment("background", "entertainerBackgroundEquipment");
+                case FOLK_HERO:
+                    return randomEquipment("background", "folkHeroBackgroundEquipment");
+                case GUILD_ARTISAN:
+                    return randomEquipment("background", "guildArtisanBackgroundEquipment");
+                case HERMIT:
+                    return randomEquipment("background", "hermitBackgroundEquipment");
+                case NOBLE:
+                    return randomEquipment("background", "nobleBackgroundEquipment");
+                case OUTLANDER:
+                    return randomEquipment("background", "outlanderBackgroundEquipment");
+                case SAGE:
+                    return randomEquipment("background", "sageBackgroundEquipment");
+                case SAILOR:
+                    return randomEquipment("background", "sailorBackgroundEquipment");
+                case SOLDIER:
+                    return randomEquipment("background", "soldierBackgroundEquipment");
+                case URCHIN:
+                    return randomEquipment("background", "urchinBackgroundEquipment");
+                default:
+                    throw new IllegalArgumentException();
+            }
+        } catch (Exception e) {
+            return new ArrayList<String>();
+        }  
+    }
+
+    public ArrayList<String> randomEquipment(String folder, String fileName) throws FileNotFoundException {
+        try {
+            Scanner fileInput = new Scanner(new File(filePath + "equipment\\" + folder + "Equipment\\" + fileName + ".txt"));
             ArrayList<String> equipment = new ArrayList<>();
             while (fileInput.hasNext()) {
                 String line = fileInput.nextLine();
@@ -916,14 +954,6 @@ public class Character {
             throw new FileNotFoundException();
         }
     } 
-
-    public ArrayList<String> getStartingEquipment(Background background) {
-        return new ArrayList<String>();
-    }
-
-    public ArrayList<String> getStartingEquipment() {
-        return new ArrayList<String>();
-    }
 
     public String decideEquipmentChoice(String optionsText) {
         String[] options = optionsText.split("\\|");
