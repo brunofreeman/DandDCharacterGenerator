@@ -1,6 +1,6 @@
 # DandDCharacterGenerator
 
-## Useful commands (execute from from root directory):
+## Useful commands (execute from top folder in repo):
 compile:
 ```
 javac -cp lib\PDFBox-2.0.8.jar -d classes src\charactergenerator\*.java
